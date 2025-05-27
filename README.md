@@ -1,16 +1,26 @@
-## Hi there 👋
+## About Me
+I am a motivated computer science student with a strong interest in building scalable, real-world systems. My eagerness to grow comes from working with modern technologies and contributing to software that improves everyday life in meaningful ways.
 
-<!--
-**Dylan-Geraci/Dylan-Geraci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7CE&width=435&lines=Always+Learning+new+Frameworks;Backend-focused+Developer;Interested+in+ML+and+Data+Science)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+```python
+class DylanGeraci:
+    def __init__(self):
+        self.age = 21
+        self.city = "Huntington Beach"
+        self.school = "California State University - Fullerton"
+        self.major = "Computer Science"
+        self.interests = ["Weightlifting", "Dogs", "Creating Software"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,java&perline=6)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=azure,git,github,vscode,vim&perline=6)](https://skillicons.dev)
+
+### Libraries
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi&perline=6)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=6)](https://skillicons.dev)
