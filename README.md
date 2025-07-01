@@ -1,5 +1,10 @@
 ## About Me
-I am a motivated computer science student with a strong interest in building scalable, real-world systems. My eagerness to grow comes from working with modern technologies and contributing to software that improves everyday life in meaningful ways.
+👋 Hi, I’m Dylan — a growth-minded full-stack software engineer and Computer Science student at California State University, Fullerton.
+💡 I’m passionate about building scalable, real-world applications that bridge complex systems with everyday impact.
+🛠️ My recent work includes machine learning models, REST APIs, and data-driven web apps using Python, JavaScript, and SQL.
+🚀 Always eager to learn and collaborate on projects that drive innovation.
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7CE&width=435&lines=Always+Learning+new+Frameworks;Backend-focused+Developer;Interested+in+ML+and+Data+Science)](https://git.io/typing-svg)
 
