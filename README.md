@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7CE&width=435&lines=Always+Learning+new+Frameworks;Backend-focused+Developer;Interested+in+ML+and+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7CE&width=435&lines=Always+Learning+new+Frameworks;Software+Developer;Interested+in+ML+and+Data+Science)](https://git.io/typing-svg)
 
 ```python
 class DylanGeraci:
