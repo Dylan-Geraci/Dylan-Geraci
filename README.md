@@ -15,7 +15,7 @@ class DylanGeraci:
         self.interests = ["Weightlifting", "Dogs", "Creating Software"]
 ```
 
-### Languages
+## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,java&perline=6)](https://skillicons.dev)
 
 ### Tools
