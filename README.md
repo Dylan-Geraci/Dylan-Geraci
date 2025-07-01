@@ -18,11 +18,11 @@ class DylanGeraci:
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,java&perline=6)](https://skillicons.dev)
 
-### Tools
+## Tools
 [![My Skills](https://skillicons.dev/icons?i=azure,git,github,vscode,vim&perline=6)](https://skillicons.dev)
 
-### Libraries
+## Libraries
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi&perline=6)](https://skillicons.dev)
 
-### Databases
+## Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=6)](https://skillicons.dev)
