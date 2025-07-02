@@ -1,5 +1,5 @@
 ## About Me
-👋 Hi, I’m Dylan — a growth-minded full-stack software engineer and Computer Science student at California State University, Fullerton. I’m passionate about building scalable, real-world applications that bridge complex systems with everyday impact. I’m always eager to learn, adapt to new technologies, and grow alongside the evolving field of software development. I'm excited to collaborate on projects that push boundaries and create meaningful solutions.
+👋 Hi, I’m Dylan — a progress-oriented software engineer and Computer Science student at California State University, Fullerton. I’m passionate about building scalable, real-world applications that bridge complex systems with everyday impact. I’m always eager to learn, adapt to new technologies, and grow alongside the evolving field of software development. I'm excited to collaborate on projects that push boundaries and create meaningful solutions.
 
 
 
