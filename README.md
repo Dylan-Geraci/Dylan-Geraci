@@ -19,7 +19,7 @@ class DylanGeraci:
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,java,html,css&perline=8)](https://skillicons.dev)
 
 ## Tools & Environments
-[![My Skills](https://skillicons.dev/icons?i=azure,git,github,vscode,aws,sqlite&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,azure,git,github,vscode,aws,sqlite&perline=8)](https://skillicons.dev)
 
 ## Libraries
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi&perline=8)](https://skillicons.dev)
