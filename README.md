@@ -8,7 +8,7 @@
 ```python
 class DylanGeraci:
     def __init__(self):
-        self.age = 21
+        self.age = 22
         self.city = "Huntington Beach"
         self.school = "California State University - Fullerton"
         self.major = "Computer Science"
