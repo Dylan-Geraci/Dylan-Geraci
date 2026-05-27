@@ -1,6 +1,5 @@
 ## About Me
-👋 Hi, I’m Dylan — a progress-oriented software engineer and Computer Science student at California State University, Fullerton. I’m passionate about building scalable, real-world applications that bridge complex systems with everyday impact. I’m always eager to learn, adapt to new technologies, and grow alongside the evolving field of software development. I'm excited to collaborate on projects that push boundaries and create meaningful solutions.
-
+👋 Software Engineer based in Southern California, recently graduated from Cal State Fullerton with a B.S. in Computer Science (3.98 GPA). I build full-stack systems and ML pipelines end-to-end, from APIs and databases to deployed models. Outside of work I stay active at the gym, play chess, and dive into as much new music as possible. Open to new grad SWE opportunities, feel free to reach out.
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65F7CE&width=435&lines=Always+Learning+new+Frameworks;Software+Developer;Interested+in+ML+and+Data+Science)](https://git.io/typing-svg)
